@@ -28,9 +28,17 @@ In the initial preparation phase, i prformed the following tasks:
 EDA involves exploring the spotify data to answer key questions, such as:
 
 1. what is the Total number of streams
-2. What is the total number of track
+2. What is the total number of track!
 3. What is the total number o playlists
 4. Artist with the Most streamed track
 5. Artist with the most streamed playlist
 6. Top 5 most streameed Tracks
-7. 
+7. Streams for days on the week
+[Screenshot 2024-11-15 174948](https://github.com/user-attachments/assets/54e24904-d2ea-4d14-831e-822321edaa27)
+
+### Results/findings
+
+Artist X leads with 14.18 billion streams, followed by Artist Y with 14.05 billion streams.
+The majority of the most-streamed songs were released between 2015–2020.
+Songs with high danceability and energy tend to perform better.
+
