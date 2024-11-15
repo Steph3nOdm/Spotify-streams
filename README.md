@@ -38,7 +38,7 @@ EDA involves exploring the spotify data to answer key questions, such as:
 
 ### Results/findings
 
-Artist X leads with 14.18 billion streams, followed by Artist Y with 14.05 billion streams.
-The majority of the most-streamed songs were released between 2015–2020.
-Songs with high danceability and energy tend to perform better.
+*Artist X leads with 14.18 billion streams, followed by Artist Y with 14.05 billion streams.
+*The majority of the most-streamed songs were released between 2015–2020.
+*Songs with high danceability and energy tend to perform better.
 
