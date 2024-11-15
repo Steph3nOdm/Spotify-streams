@@ -4,7 +4,8 @@
 
 This project aims to provide insights into the streams generated from multiple music tracks on the sportify streaming platform over the past year. By analyzing variuos aspects of the spotify data we seek to reveal the top performing tracks, artists with the most engaging music and the effect if playlists using charts and trend lines.
 
-[Screenshot 2024-11-15 174948](https://github.com/user-attachments/assets/54e24904-d2ea-4d14-831e-822321edaa27)
+![Uploading Screenshot 2024-11-15 174948.png…]()
+
 
 ### Data sources
 
