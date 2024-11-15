@@ -4,7 +4,8 @@
 
 This project aims to provide insights into the streams generated from multiple music tracks on the sportify streaming platform over the past year. By analyzing variuos aspects of the spotify data we seek to reveal the top performing tracks, artists with the most engaging music and the effect if playlists using charts and trend lines.
 
-![Uploading Screenshot 2024-11-15 174948.png…]()
+![Screenshot 2024-11-15 174948](https://github.com/user-attachments/assets/0d1214da-b293-499d-a894-5cdd859630d4)
+
 
 
 ### Data sources
@@ -47,3 +48,12 @@ EDA involves exploring the spotify data to answer key questions, such as:
 
 ## Recommendation
 
+* Leverage High-Stream Periods for Promotions: Since August, May, and January see high streaming volumes, consider releasing or promoting new music during these months.
+* Optimize Releases for Fridays: Given that Friday has the highest daily streams, scheduling releases on Fridays could increase initial engagement and visibility.
+* Target Playlist Curation: Focus on energetic and moderately danceable tracks in playlist curation, as they resonate with popular listening trends.
+* Analyze Trends in Key and Mode: Since "Blinding Lights" is in the C# Major key, consider if this tonality has wider appeal across popular tracks for informed playlist creation or artist development.
+* Spotlight Top Artists in Marketing: The Weeknd, Taylor Swift, and Ed Sheeran consistently draw high engagement. Collaborations, remixes, or features with these artists could boost streams for new songs.
+
+### limitations 
+
+one row had an incomplete data and was removed 
