@@ -4,6 +4,8 @@
 
 This project aims to provide insights into the streams generated from multiple music tracks on the sportify streaming platform over the past year. By analyzing variuos aspects of the spotify data we seek to reveal the top performing tracks, artists with the most engaging music and the effect if playlists using charts and trend lines.
 
+[Screenshot 2024-11-15 174948](https://github.com/user-attachments/assets/54e24904-d2ea-4d14-831e-822321edaa27)
+
 ### Data sources
 
 Spotify data: The primary dataset used for this analysis is the "spotify music.pbix" contaaining detailed information about each tracks uploaded on the spotify platfoorm.
@@ -33,12 +35,14 @@ EDA involves exploring the spotify data to answer key questions, such as:
 4. Artist with the Most streamed track
 5. Artist with the most streamed playlist
 6. Top 5 most streameed Tracks
-7. Streams for days on the week
-[Screenshot 2024-11-15 174948](https://github.com/user-attachments/assets/54e24904-d2ea-4d14-831e-822321edaa27)
+7. Streams for days in the week
+
 
 ### Results/findings
 
-*Artist X leads with 14.18 billion streams, followed by Artist Y with 14.05 billion streams.
-*The majority of the most-streamed songs were released between 2015–2020.
-*Songs with high danceability and energy tend to perform better.
+* The weekend leads with 14.18 billion streams, followed by Taylor swift with 14.05 billion streams.
+* The majority of the most-streamed songs were released between 2015–2020.
+* Songs with high danceability and energy tend to perform better.
+
+## Recommendation
 
